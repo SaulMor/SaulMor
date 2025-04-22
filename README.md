@@ -3,8 +3,10 @@
 - I am a senior at UNC Charlotte majoring in computer science and I am passionate about technology and innovation. After I graduate, I plan to work in Charlotte as a software engineer.
 
 ## Projects
+- **Eventify**: A full-stack web application to streamline the buying and selling event decorations, promoting sustainability and affordability.
 - **FastAPI Restaurant Management App**: A project focused on handling orders, inventory management, and recipe tracking using FastAPI.
 - **CineCritic Hub**: An interactive web application that provides detailed movie reviews and information fetched dynamically using The Movie Database (TMDB) API.
+- **Pet Store Management System**: Java-based Pet Store Management System to keep track of inventory and memberships using object-oriented programming and inheritance concepts
   
 ## Goals & Objectives
 - Short-term: Improve my skills in software engineering, particularly in data structures and algorithms.
