@@ -4,6 +4,7 @@
 
 ## Projects
 - **FastAPI Restaurant Management App**: A project focused on handling orders, inventory management, and recipe tracking using FastAPI.
+- ** CineCritic Hub **: An interactive web application that provides detailed movie reviews and information fetched dynamically using The Movie Database (TMDB) API.
   
 ## Goals & Objectives
 - Short-term: Improve my skills in software engineering, particularly in data structures and algorithms.
