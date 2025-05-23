@@ -1,6 +1,6 @@
 # Hi there, Welcome To My GitHub 👋
 ## About Me
-- I am a senior at UNC Charlotte majoring in computer science and I am passionate about technology and innovation. After I graduate, I plan to work in Charlotte as a software engineer.
+- I am a recent computer science graduate from UNC Charlotte and passionate about technology and innovation. After I graduate, I plan to work as a software engineer.
 
 ## Projects
 - **Eventify**: A full-stack web application to streamline the buying and selling event decorations, promoting sustainability and affordability.
