@@ -3,6 +3,7 @@
 - I am a recent computer science graduate from UNC Charlotte and passionate about technology and innovation. After I graduate, I plan to work as a software engineer.
 
 ## Projects
+- **StudyPal (In Progress)**: The Ultimate College Life Tracker.
 - **QuickTask API**: A async REST API with full JWT‑protected CRUD for users & tasks.
 - **Eventify**: A full-stack web application to streamline the buying and selling event decorations, promoting sustainability and affordability.
 - **FastAPI Restaurant Management App**: A project focused on handling orders, inventory management, and recipe tracking using FastAPI.
