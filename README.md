@@ -1,6 +1,6 @@
 # Hi there, Welcome To My GitHub 👋
 ## About Me
-- I am a recent computer science graduate from UNC Charlotte and passionate about technology and innovation. After I graduate, I plan to work as a software engineer.
+- I am a recent computer science graduate from UNC Charlotte and passionate about technology and innovation. I plan to work as a software engineer.
 
 ## Projects
 - **StudyPal (In Progress)**: The Ultimate College Life Tracker.
